@@ -1,4 +1,4 @@
-# calculatorapp
+# Create a basic calculator app using VUE js and Bootstra 5.
 
 ## Project setup
 ```
