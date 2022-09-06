@@ -68,6 +68,7 @@ export default {
         this.calValue ="";
        }
        if (e === "=") {
+        //The eval() method is using for calculator operation
         this.calValue = eval(
           this.previousCalValue + this.optr + this.calValue
         );

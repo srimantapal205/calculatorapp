@@ -1,4 +1,4 @@
-# Create a basic calculator app using VUE js and Bootstra 5.
+# Create a basic calculator app using Vue JS and Bootstrap5.
 
 ## Project setup
 ```
